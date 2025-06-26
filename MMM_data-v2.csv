@@ -1,4 +1,4 @@
-time,lead_created_count,display_impressions, display_spend ,ctv_impressions, ctv_spend ,olv_impressions, olv_spend ,google_ads_impressions,google_ads_spend, meta_impressions , meta_spend ,avg_lead_value,organic_impressions_search_console
+time,lead_created_count,display_impressions, display_spend,ctv_impressions, ctv_spend,olv_impressions, olv_spend,google_ads_impressions,google_ads_spend, meta_impressions, meta_spend,avg_lead_value,organic_impressions_search_console
 1/1/21,10,0,0,0,0,0,0,0,0,0,0,1200,85548
 1/2/21,10,0,0,0,0,0,0,0,0,0,0,1200,85548
 1/3/21,23,0,0,0,0,0,0,0,0,0,0,1200,85548
