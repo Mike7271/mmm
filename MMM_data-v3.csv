@@ -1,4 +1,4 @@
-time,google_impressions,display_impressions,ctv_impressions, meta_impressions,google_spend, display_spend, ctv_spend, meta_spend,lead_created_count,avg_lead_value,organic_impressions_searchconsole
+time,google_impressions,display_impressions,ctv_impressions,meta_impressions,google_spend, display_spend,ctv_spend,meta_spend,lead_created_count,avg_lead_value,organic_impressions_searchconsole
 2021-01-01,0,0,0,0,0,0,0,0,10,1200,85548
 2021-01-02,0,0,0,0,0,0,0,0,10,1200,85548
 2021-01-03,0,0,0,0,0,0,0,0,23,1200,85548
