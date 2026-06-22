@@ -1,4 +1,4 @@
-time,lead_created_count,display_impressions,display_spend,ctv_impressions,ctv_spend,olv_impressions,olv_spend,google_ads_impressions,google_ads_spend,meta_impressions,meta_spend,total_revenue,organic_clicks,organic_spend
+time,lead_created_count,display_impressions,display_spend,ctv_impressions,ctv_spend,olv_impressions,olv_spend,google_ads_impressions,google_ads_spend,meta_impressions,meta_spend,total_revenue,organic_impressions,organic_spend
 2025-01-01,23,65337,368.79,17243,445.23,0,0,"7,683",100.3,0,0,27600,379,379
 2025-01-02,27,59804,349.41,17523,448.29,0,0,"7,110",163.58,0,0,32400,424,424
 2025-01-03,26,74449,432.26,17554,446.66,0,0,"15,044",189.04,0,0,31200,399,399
